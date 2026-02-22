@@ -14,7 +14,7 @@ A> SubTerra Tech
 # Immersive Engineering
 |ModPack|Blueprint|Use of BP|
 |---|---|---|
-|A||Arc Furnace|Hammer the cauldren|
-|A||Crusher|Hammer the center front steel fence|
-|A||Metal Press|Hammer the piston|
-|A||Squeezer|Hammer the center wooden barrel from the front|
+|A|Arc Furnace|Hammer the cauldren|
+|A|Crusher|Hammer the center front steel fence|
+|A|Metal Press|Hammer the piston|
+|A|Squeezer|Hammer the center wooden barrel from the front|
