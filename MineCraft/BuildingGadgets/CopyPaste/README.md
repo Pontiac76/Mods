@@ -8,5 +8,5 @@
 |---|---|
 |Arc Furnace|Hammer the cauldren|
 |Crusher|Hammer the center front steel fence|
-|Squeezer|Hammer the center wooden barrel from the front|
 |Metal Press|Hammer the piston|
+|Squeezer|Hammer the center wooden barrel from the front|
