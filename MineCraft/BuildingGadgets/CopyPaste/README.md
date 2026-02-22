@@ -17,3 +17,10 @@ Immersive Engineering
 Puts down the unassembled parts to create the Arc Furnace
 
 Use the Engineers Hammer on the cauldren.
+
+# Immersive Engineering - Arc Furnace
+## Required Mods
+Immersive Engineering
+
+## Use
+Hammer the center front steel fence
