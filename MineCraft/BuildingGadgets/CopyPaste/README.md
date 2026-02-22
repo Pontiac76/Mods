@@ -24,3 +24,10 @@ Immersive Engineering
 
 ## Use
 Hammer the center front steel fence
+
+# Immersive Engineering - Squeezer
+## Required Mods
+Immersive Engineering
+
+# Use
+Hammer the center wooden barrel from the front
