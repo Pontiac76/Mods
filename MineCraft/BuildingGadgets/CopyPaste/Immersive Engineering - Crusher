@@ -1,0 +1,11 @@
+{
+  "name": "Imm Eng - Crusher",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:light_engineering\"},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"true\",north:\"false\",south:\"true\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"true\",north:\"false\",south:\"true\",waterlogged:\"false\",west:\"true\"}},{Name:\"minecraft:hopper\",Properties:{enabled:\"true\",facing:\"down\"}},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"true\",north:\"true\",south:\"true\",waterlogged:\"false\",west:\"true\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"true\",north:\"true\",south:\"false\",waterlogged:\"false\",west:\"true\"}}],endpos:{X:4,Y:2,Z:0},startpos:{X:0,Y:0,Z:-2},statelist:[I;0,0,0,0,1,2,3,4,4,1,2,5,5,5,2,0,0,1,0,1,1,6,1,6,1,2,5,5,5,2,0,0,1,0,1,7,8,8,8,1,2,5,5,5,2]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 10,
+    "minecraft:hopper": 9,
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:steel_scaffolding_standard": 10,
+    "immersiveengineering:steel_fence": 8
+  }
+}
