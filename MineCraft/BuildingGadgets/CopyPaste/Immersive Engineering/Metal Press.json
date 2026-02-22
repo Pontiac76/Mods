@@ -1,0 +1,11 @@
+{
+  "name": "Imm Eng - Metal Press",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"immersiveengineering:conveyor_basic\",Properties:{facing:\"west\",waterlogged:\"false\"}},{Name:\"minecraft:piston\",Properties:{extended:\"false\",facing:\"down\"}},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:heavy_engineering\"}],endpos:{X:2,Y:2,Z:0},startpos:{X:0,Y:0,Z:0},statelist:[I;0,1,0,2,3,2,4,5,4]}",
+  "requiredItems": {
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:steel_scaffolding_standard": 2,
+    "minecraft:piston": 1,
+    "immersiveengineering:heavy_engineering": 1,
+    "immersiveengineering:conveyor_basic": 2
+  }
+}
