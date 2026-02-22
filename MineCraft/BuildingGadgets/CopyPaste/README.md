@@ -3,12 +3,12 @@ This is a list of blueprints from Direwolf20 Copy/Paste gadget from his Building
 
 I started this list of BPs from the mod pack SubTerra Tech v8.6.
 
-# Mods
-A> SubTerra Tech
+# ModPack
+|A|SubTerra Tech|
 
 # Misc BPs
 |ModPack|Blueprint|Required Mods|Purpose|Use of BP|
-|---||---|---|---|---|
+|---|---|---|---|---|
 |A|Chunk Of Light (16x16x12)|Simply Light|Clear 16wx16dx12h chunk with lights|Set copy/paste gadget to VOID|
 
 # Immersive Engineering
