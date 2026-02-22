@@ -4,6 +4,8 @@ This is a list of blueprints from Direwolf20 Copy/Paste gadget from his Building
 I started this list of BPs from the mod pack SubTerra Tech v8.6.
 
 # ModPack
+|ModPack ID|ModPack Name|
+|---|---|
 |A|SubTerra Tech|
 
 # Misc BPs
