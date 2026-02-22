@@ -1,0 +1,15 @@
+{
+  "name": "Imm Eng - Arc Furnace",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:sheetmetal_steel\"},{Name:\"immersiveengineering:heavy_engineering\"},{Name:\"immersiveengineering:light_engineering\"},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:slab_sheetmetal_steel\",Properties:{type:\"bottom\",waterlogged:\"false\"}},{Name:\"immersiveengineering:blastbrick_reinforced\"},{Name:\"immersiveengineering:storage_steel\"},{Name:\"minecraft:cauldron\"},{Name:\"immersiveengineering:rs_engineering\"}],endpos:{X:4,Y:4,Z:0},startpos:{X:0,Y:0,Z:-4},statelist:[I;0,0,1,0,0,1,2,2,2,1,0,2,2,2,0,3,4,2,4,3,3,4,2,4,3,0,5,5,5,0,1,6,6,6,1,3,6,6,6,3,3,6,6,6,3,3,3,2,3,3,7,5,5,5,7,7,6,6,6,7,7,6,6,6,7,3,6,6,6,3,3,3,2,3,3,5,5,5,5,5,3,3,3,3,3,3,6,6,6,3,3,6,6,6,3,3,3,3,3,3,4,5,8,5,5,9,3,3,3,3,3,6,6,6,3,3,3,3,3,3,3,3,3,3,3]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 10,
+    "immersiveengineering:storage_steel": 6,
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:blastbrick_reinforced": 27,
+    "immersiveengineering:sheetmetal_steel": 8,
+    "immersiveengineering:steel_scaffolding_standard": 5,
+    "immersiveengineering:heavy_engineering": 5,
+    "immersiveengineering:slab_sheetmetal_steel": 14,
+    "minecraft:cauldron": 1
+  }
+}
