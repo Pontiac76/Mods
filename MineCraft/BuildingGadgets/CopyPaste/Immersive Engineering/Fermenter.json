@@ -1,0 +1,12 @@
+{
+  "name": "Fermenter",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:light_engineering\"},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:fluid_pipe\",Properties:{waterlogged:\"false\"}},{Name:\"minecraft:cauldron\"},{Name:\"immersiveengineering:sheetmetal_iron\"}],endpos:{X:0,Y:2,Z:2},startpos:{X:-2,Y:0,Z:0},statelist:[I;0,0,1,2,3,1,3,3,3,4,4,0,3,5,5,3,6,6,0,0,0,3,5,5,3,6,6]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 2,
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:steel_scaffolding_standard": 6,
+    "immersiveengineering:sheetmetal_iron": 4,
+    "immersiveengineering:fluid_pipe": 2,
+    "minecraft:cauldron": 4
+  }
+}

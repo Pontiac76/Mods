@@ -6,6 +6,7 @@ I started this list of BPs from the mod pack SubTerra Tech v8.6.
 # ModPack
 |ModPack ID|ModPack Name|
 |---|---|
+|?|Should be generic|
 |A|SubTerra Tech|
 
 # Misc BPs
@@ -16,8 +17,9 @@ I started this list of BPs from the mod pack SubTerra Tech v8.6.
 # Immersive Engineering
 |ModPack|Blueprint|Use of BP|
 |---|---|---|
-|A|Arc Furnace|Hammer the cauldren|
-|A|Automated Engineers Workbench|Hammer the center slab|
-|A|Crusher|Hammer the center front steel fence|
-|A|Metal Press|Hammer the piston|
-|A|Squeezer|Hammer the center wooden barrel from the front|
+|?|Arc Furnace|Hammer the cauldren|
+|?|Automated Engineers Workbench|Hammer the center slab|
+|?|Crusher|Hammer the center front steel fence|
+|?|Fermenter|Hammer the cauldren from the front|
+|?|Metal Press|Hammer the piston|
+|?|Squeezer|Hammer the center wooden barrel from the front|
