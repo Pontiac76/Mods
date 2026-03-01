@@ -1,0 +1,12 @@
+{
+  "name": "Auto Engineers Workbench",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:light_engineering\"},{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:conveyor_basic\",Properties:{facing:\"south\",waterlogged:\"false\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"immersiveengineering:slab_treated_wood_horizontal\",Properties:{type:\"bottom\",waterlogged:\"false\"}},{Name:\"immersiveengineering:conveyor_basic\",Properties:{facing:\"west\",waterlogged:\"false\"}},{Name:\"immersiveengineering:heavy_engineering\"}],endpos:{X:2,Y:1,Z:2},startpos:{X:0,Y:0,Z:0},statelist:[I;0,0,1,0,0,2,3,1,1,4,2,5,1,1,6,4,2,6]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 4,
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:steel_scaffolding_standard": 5,
+    "immersiveengineering:heavy_engineering": 2,
+    "immersiveengineering:slab_treated_wood_horizontal": 2,
+    "immersiveengineering:conveyor_basic": 4
+  }
+}
