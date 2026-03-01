@@ -22,4 +22,5 @@ I started this list of BPs from the mod pack SubTerra Tech v8.6.
 |?|Crusher|Hammer the center front steel fence|
 |?|Fermenter|Hammer the cauldren from the front|
 |?|Metal Press|Hammer the piston|
+|?|Refinery|Hammer the top heavy engineering block|
 |?|Squeezer|Hammer the center wooden barrel from the front|
