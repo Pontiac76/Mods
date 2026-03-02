@@ -1,0 +1,8 @@
+{
+  "name": "Mjollnir",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"mythicbotany:rune_holder\"},{Name:\"mythicbotany:central_rune_holder\"}],endpos:{X:10,Y:0,Z:10},startpos:{X:0,Y:0,Z:0},statelist:[I;0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0]}",
+  "requiredItems": {
+    "mythicbotany:central_rune_holder": 1,
+    "mythicbotany:rune_holder": 20
+  }
+}
