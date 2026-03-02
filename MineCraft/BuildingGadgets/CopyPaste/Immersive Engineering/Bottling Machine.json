@@ -1,0 +1,12 @@
+{
+  "name": "Bottling Machine",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"immersiveengineering:conveyor_basic\",Properties:{facing:\"west\",waterlogged:\"false\"}},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:light_engineering\"},{Name:\"immersiveengineering:sheetmetal_iron\"},{Name:\"immersiveengineering:fluid_pump\",Properties:{facing:\"north\",multiblockslave:\"false\",waterlogged:\"false\"}},{Name:\"immersiveengineering:fluid_pump\",Properties:{facing:\"north\",multiblockslave:\"true\",waterlogged:\"false\"}}],endpos:{X:0,Y:2,Z:1},startpos:{X:-2,Y:0,Z:0},statelist:[I;0,1,0,2,2,2,3,3,3,4,0,5,4,6,5,3,7,3]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 2,
+    "immersiveengineering:rs_engineering": 1,
+    "immersiveengineering:fluid_pump": 2,
+    "immersiveengineering:steel_scaffolding_standard": 3,
+    "immersiveengineering:sheetmetal_iron": 2,
+    "immersiveengineering:conveyor_basic": 3
+  }
+}
