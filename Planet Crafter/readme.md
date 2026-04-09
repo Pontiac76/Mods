@@ -132,3 +132,34 @@ Folders to update:
 
 Done.
 ```
+---
+```
+PS G:\SteamLibrary\steamapps\common\The Planet Crafter\BepInEx\plugins> .\update_akarnokd.ps1 -Version v761
+
+Chosen release: v2.005 - Patch 1
+Tag:            v761
+Asset:          akarnokd-all.zip
+Target path:    G:\SteamLibrary\steamapps\common\The Planet Crafter\BepInEx\plugins
+
+Downloading https://github.com/akarnokd/ThePlanetCrafterMods/releases/download/v761/akarnokd-all.zip
+
+Folders to update:
+ - akarnokd - (Cheat) Asteroid Landing Position Override
+ - akarnokd - (Cheat) Auto Consume Oxygen-Water-Food
+ - akarnokd - (Cheat) Auto Grab and Mine
+ - akarnokd - (Cheat) Auto Sequence DNA
+ - akarnokd - (Cheat) Auto Store
+ - akarnokd - (Cheat) Craft From Nearby Containers
+ - akarnokd - (Cheat) Inventory Stacking
+ - akarnokd - (Cheat) Machines Deposit Into Remote Containers
+ - akarnokd - (Cheat) Recyclers Deposit Into Remote Containers
+ - akarnokd - (Misc) Mod Enabler
+ - akarnokd - (UI) Beacon Text
+ - akarnokd - (UI) Overview Panel
+ - akarnokd - (UI) Prevent Accidental Deconstruction
+ - akarnokd - (UI) Show Grab N Mine Count
+ - akarnokd - (UI) Show Rocket Counts
+
+
+Done.
+```
