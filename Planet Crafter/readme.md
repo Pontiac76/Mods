@@ -24,7 +24,7 @@ It then allows you to select a release, downloads akarnokd-all.zip, and updates 
 
 ## Requirements / Assumptions
 
-- Run the script from your BepInEx\plugins directory
+- Run the script from your `BepInEx\plugins` directory
   (or specify a different path via -TargetPath)
 - Local folder names must match the folder names inside the zip archive
 - Internet access is required to query GitHub and download releases
