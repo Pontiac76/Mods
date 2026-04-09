@@ -83,3 +83,52 @@ It then allows you to select a release, downloads akarnokd-all.zip, and updates 
 - Does not assume anything beyond folder name matching
 
 Just updates what you already have. Nothing more, nothing less.
+
+
+---
+
+## Example Output
+```
+PS G:\SteamLibrary\steamapps\common\The Planet Crafter\BepInEx\plugins> .\update_akarnokd.ps1
+
+Available releases:
+
+ 1. v2.005 - Patch 1 [v761]
+ 2. v2.005 - Development Branch - Patch 1 [v760]
+ 3. v2.004 - Update 2.0 Officially only on STEAM for now* [v759]
+ 4. v2.004a - Development Branch - Update [v758]
+ 5. v2.004a - Development Branch - Update [v757]
+ 6. v2.004 - Development Branch - Update [v756]
+ 7. v2.004 - Development Branch - Update [v755]
+ 8. v2.003 - Development Branch - Update [v754]
+ 9. v2.002 - Development Branch - Update [v753]
+
+Enter the number to download (1-9): 1
+
+Chosen release: v2.005 - Patch 1
+Tag:            v761
+Asset:          akarnokd-all.zip
+Target path:    G:\SteamLibrary\steamapps\common\The Planet Crafter\BepInEx\plugins
+
+Downloading https://github.com/akarnokd/ThePlanetCrafterMods/releases/download/v761/akarnokd-all.zip
+
+Folders to update:
+ - akarnokd - (Cheat) Asteroid Landing Position Override
+ - akarnokd - (Cheat) Auto Consume Oxygen-Water-Food
+ - akarnokd - (Cheat) Auto Grab and Mine
+ - akarnokd - (Cheat) Auto Sequence DNA
+ - akarnokd - (Cheat) Auto Store
+ - akarnokd - (Cheat) Craft From Nearby Containers
+ - akarnokd - (Cheat) Inventory Stacking
+ - akarnokd - (Cheat) Machines Deposit Into Remote Containers
+ - akarnokd - (Cheat) Recyclers Deposit Into Remote Containers
+ - akarnokd - (Misc) Mod Enabler
+ - akarnokd - (UI) Beacon Text
+ - akarnokd - (UI) Overview Panel
+ - akarnokd - (UI) Prevent Accidental Deconstruction
+ - akarnokd - (UI) Show Grab N Mine Count
+ - akarnokd - (UI) Show Rocket Counts
+
+
+Done.
+```
